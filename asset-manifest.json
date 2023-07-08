@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/AssoTool/static/css/main.d73b8503.css",
-    "main.js": "/AssoTool/static/js/main.a3ce87c8.js",
+    "main.js": "/AssoTool/static/js/main.fa5971c7.js",
     "static/js/787.f872099a.chunk.js": "/AssoTool/static/js/787.f872099a.chunk.js",
     "static/media/logo.png": "/AssoTool/static/media/logo.bd4900aa569917d7d7d5.png",
     "index.html": "/AssoTool/index.html",
     "static/media/successTick.svg": "/AssoTool/static/media/successTick.a45ac85812bac426a827745fff4a4757.svg",
     "main.d73b8503.css.map": "/AssoTool/static/css/main.d73b8503.css.map",
-    "main.a3ce87c8.js.map": "/AssoTool/static/js/main.a3ce87c8.js.map",
+    "main.fa5971c7.js.map": "/AssoTool/static/js/main.fa5971c7.js.map",
     "787.f872099a.chunk.js.map": "/AssoTool/static/js/787.f872099a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d73b8503.css",
-    "static/js/main.a3ce87c8.js"
+    "static/js/main.fa5971c7.js"
   ]
 }
