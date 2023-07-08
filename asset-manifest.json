@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/AssoTool/index.html/static/css/main.d73b8503.css",
+    "main.js": "/AssoTool/index.html/static/js/main.ab0ac6d6.js",
+    "static/js/787.f872099a.chunk.js": "/AssoTool/index.html/static/js/787.f872099a.chunk.js",
+    "static/media/logo.png": "/AssoTool/index.html/static/media/logo.bd4900aa569917d7d7d5.png",
+    "index.html": "/AssoTool/index.html/index.html",
+    "static/media/successTick.svg": "/AssoTool/index.html/static/media/successTick.a45ac85812bac426a827745fff4a4757.svg",
+    "main.d73b8503.css.map": "/AssoTool/index.html/static/css/main.d73b8503.css.map",
+    "main.ab0ac6d6.js.map": "/AssoTool/index.html/static/js/main.ab0ac6d6.js.map",
+    "787.f872099a.chunk.js.map": "/AssoTool/index.html/static/js/787.f872099a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d73b8503.css",
+    "static/js/main.ab0ac6d6.js"
+  ]
+}
